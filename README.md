@@ -10,23 +10,23 @@ rlgame-GUI is setup to use premake by default. Simply run the batch file or prem
 This project is still workin in progress, bellow are the things that need to be done.
 
 ## Controls
-Checkbox
-List
-ComboBox
-Sliders
-Menus
-Spinners
-TextArea
+  * Checkbox
+  * List
+  * ComboBox
+  * Sliders
+  * Menus
+  * Spinners
+  * TextArea
 
 ## Features
-Screen Swapping
-Text Input
-Popups
-Tool Tips
-LayoutTools
-Transitions
-Resource Callbacks
-Serialization
+  * Screen Swapping
+  * Text Input
+  * Popups
+  * Tool Tips
+  * LayoutTools
+  * Transitions
+  * Resource Callbacks
+  * Serialization
 
 ## Tools
-Layout editor
+  * Layout editor
